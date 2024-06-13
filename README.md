@@ -26,7 +26,7 @@ URL Info view), delete all existing records. Anonymous users can only see this t
   <li>This page contains info about URL (CreatedBy, CreatedDate, any other fields) - :white_check_mark:</li>
   <li>About page should contain a description of your Url Shortener algorithm. Visible for
 everyone(even not authorize) but can be edited only by admin users - :white_check_mark:</li>
-  <li>Unit Tests - Currently in progress</li>
+  <li>Unit Tests - One test was done (Url Controller, GetAllUrls action method)</li>
 </ol>
 
 <h2>Technologies</h2>
