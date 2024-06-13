@@ -76,3 +76,13 @@ Anon             |  Admin               |    Ordinary User
 Failure             |  Success
 :-------------------------:|:-------------------------:
 ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/adding-url%20(when%20it%20already%20exists).png?raw=true)  |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/adding-url%20(when%20it%20does%20not%20exist).png?raw=true)
+
+<h2>Info Page</h2>
+
+![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/info-page.png?raw=true)
+
+<h2>About Page (admin and ordinary/anon users)</h2>
+
+Admin             |  Admin (Editing)               |    Ordinary/Anon User
+:-------------------------:|:-------------------------:|:------------------------
+![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/about-page%20(admin%20role).png?raw=true)  |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/about-page%20(editing%20-%20admin%20role).png?raw=true)   |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/about-page%20(not%20admin%20role).png?raw=true) 
