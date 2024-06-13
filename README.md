@@ -49,10 +49,15 @@ everyone(even not authorize) but can be edited only by admin users - :white_chec
 </table>
 
 <h4>Patterns</h4>
-    <ul>
-      <li>DTO Pattern</li>
-      <li>Repository Pattern</li>
-    </ul>
+<ul>
+  <li>DTO Pattern</li>
+  <li>Repository Pattern</li>
+</ul>
+
+<h4>Database</h3>
+<ul>
+  <li>MS SQL Server</li>
+</ul>
 
 <h2>Login/Register Page</h2>
 
