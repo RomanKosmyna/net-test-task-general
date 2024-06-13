@@ -59,6 +59,12 @@ everyone(even not authorize) but can be edited only by admin users - :white_chec
   <li>MS SQL Server</li>
 </ul>
 
+<h4>Testing</h3>
+<ul>
+  <li>xUnit</li>
+  <li>FakeItEasy</li>
+</ul>
+
 <h4>Architecture</h4>
 <ul>
   <li>Frontend - https://github.com/alan2207/bulletproof-react</li>
