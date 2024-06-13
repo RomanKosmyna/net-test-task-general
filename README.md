@@ -77,7 +77,7 @@ Failure             |  Success
 :-------------------------:|:-------------------------:
 ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/adding-url%20(when%20it%20already%20exists).png?raw=true)  |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/adding-url%20(when%20it%20does%20not%20exist).png?raw=true)
 
-<h2>Info Page</h2>
+<h2>Info Page (Protected route that is available only for Authorized users)</h2>
 
 ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/info-page.png?raw=true)
 
