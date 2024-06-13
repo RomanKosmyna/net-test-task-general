@@ -67,7 +67,7 @@ Login             |  Register
 
 <h2>Main Page (with different roles)</h2>
 
-Anon             |  Admin               |    Ordinary User
+Anon (option to delete is not available)            |  Admin (can delete all urls)               |    Ordinary User (can delete only his urls)
 :-------------------------:|:-------------------------:|:------------------------
 ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/main-page%20(as%20guest).png?raw=true)  |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/main-page%20(as%20admin).png?raw=true)   |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/main-page%20(as%20ordinary%20user).png?raw=true)  
 
