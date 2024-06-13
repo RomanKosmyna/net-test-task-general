@@ -59,8 +59,11 @@ everyone(even not authorize) but can be edited only by admin users - :white_chec
   <li>MS SQL Server</li>
 </ul>
 
-<h2>Login/Register Page</h2>
+<h2>Login/Register Page (With validation)</h2>
 
+Login             |  Register
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/login-page.png?raw=true)  |  ![register](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/register-page%20(showing%20validation).png?raw=true)
 
 
     
