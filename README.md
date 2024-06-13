@@ -65,5 +65,8 @@ Login             |  Register
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/login-page.png?raw=true)  |  ![register](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/register-page%20(showing%20validation).png?raw=true)
 
+<h2>Main Page (with different roles)</h2>
 
-    
+Anon             |  Admin               |    Ordinary User
+:-------------------------:|:-------------------------:|:------------------------
+![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/main-page%20(as%20guest).png?raw=true)  |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/main-page%20(as%20admin).png?raw=true)   |  ![alt](https://github.com/RomanKosmyna/net-test-task-general/blob/main/Images/main-page%20(as%20ordinary%20user).png?raw=true)  
