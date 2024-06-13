@@ -6,7 +6,7 @@
 <h2>Backend</h2>
 <a href="https://github.com/RomanKosmyna/net-test-task-backend" target="_blank">Backend</a>
 
-<h2>It is necessary to implement the following functionality:</h2>
+<h2>The following functionality from the documentation was implemented:</h2>
 <ol>
   <li>Login (enter Login, Password and Authorize yourself) - :white_check_mark:</li>
   <li>You need to have Admin and ordinary users - :white_check_mark:</li>
@@ -26,7 +26,7 @@ URL Info view), delete all existing records. Anonymous users can only see this t
   <li>This page contains info about URL (CreatedBy, CreatedDate, any other fields) - :white_check_mark:</li>
   <li>About page should contain a description of your Url Shortener algorithm. Visible for
 everyone(even not authorize) but can be edited only by admin users - :white_check_mark:</li>
-  <li>Unit Tests - </li>
+  <li>Unit Tests - Currently in progress</li>
 </ol>
 
 <h2>Technologies</h2>
